@@ -70,13 +70,21 @@ Our strategy to solve this challenge was:
 - The following hypothesis were uplifted for the problem:
 
 **H1.** Developed countries has 10 % more digital bank accounts
+
 **H2.** Urban zone has 50% more digital bank accounts than country-side zone.
+
 **H3.** 80% of the people with cellphone and internet has digital bank accounts
+
 **H4.** Quantity of people with undergraduated degree that has digital bank account are greater than the other levels of education.
+
 **H5.** People between 18 and 40 years old constitute 85% of the basis of digital bank account.
+
 **H6.** Women are marjority of the digital bank accounts
+
 **H7.** People older than 60 with cellphone doesnt have digital bank account in general.
+
 **H8.** 95% of unemployed people doesnt have digital bank account.
+
 **H9.** 100% of the head-of-the-house has digital bank account.
 
 - We created many features, notably country_zone and country_edu by concatenating the respective features.
